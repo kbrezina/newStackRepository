@@ -1,0 +1,2 @@
+class stck1 {
+}
